@@ -72,6 +72,10 @@ Objetivo: Descobrir bugs através da experiência e criatividade do tester.
 
 Diferencial: Focado em investigação livre, sem scripts pré-definidos.
 
+**Exemplo de teste exploratório com o site da Amazon**
+
+![Captura de tela 2025-05-22 094644](https://github.com/user-attachments/assets/11e203dd-f484-41f3-8744-db573308b25c)
+
 ## Critérios de Aceitação em Metodologias Ágeis (User Stories e BDD)
 Os critérios de aceitação (AC) são condições que uma User Story deve satisfazer para ser considerada "pronta" (Done). Eles definem o limite de funcionalidade e ajudam a alinhar expectativas entre desenvolvedores, QA e stakeholders.
 
