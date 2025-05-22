@@ -105,18 +105,17 @@ A automação de testes é essencial para garantir qualidade, velocidade e confi
   - [Exemplo de código](./automacao-de-testes/selenium.py)
 
 
-- Cypress
+ - Fake Filler
 
-  - Linguagem: JavaScript.
+![Captura de tela 2025-04-25 084300](https://github.com/user-attachments/assets/d015b9ba-a9a4-4c94-93e7-b0cac6abc4e1)
 
-  - Vantagens: Rápido, fácil de debugar, execução no navegador.
+- Ghost Inspector
 
+![Captura de tela 2025-04-25 085646](https://github.com/user-attachments/assets/1b1fedc0-ce9e-4c2f-8717-2458be191dbb)
 
-- Appium (Mobile)
+- WAVE
 
-  - Linguagens: Java, Python, JavaScript.
-
-  - Vantagens: Cross-platform (iOS e Android), integração com Selenium.
+![Captura de tela 2025-04-25 090805](https://github.com/user-attachments/assets/db4eeae2-2c56-4a29-98e3-9ec1fccfbb84)
 
 
 **Back-end e APIs**
