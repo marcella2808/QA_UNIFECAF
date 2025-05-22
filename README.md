@@ -27,12 +27,16 @@ Objetivo: Verificar lógica interna e comportamentos isolados.
 
 Ferramentas: JUnit (Java), pytest (Python), Jest (JavaScript).
 
+[Exemplo de código](./tipos-de-teste/tests/teste-unitario.py)
+
 ### 2. Teste de Integração
 O que testa? Interação entre módulos/serviços (ex.: API + banco de dados).
 
 Objetivo: Garantir que partes do sistema funcionem juntas corretamente.
 
 Exemplo: Testar comunicação entre um microsserviço e um banco de dados.
+
+[Exemplo de código](./tipos-de-teste/tests/teste-de-integracao.py)
 
 ### 3. Teste de Sistema
 O que testa? O sistema completo, em um ambiente próximo ao real.
@@ -41,6 +45,8 @@ Objetivo: Validar se o software atende aos requisitos funcionais e não funciona
 
 Abrange: Performance, segurança, usabilidade.
 
+[Exemplo de código](./tipos-de-teste/tests/teste-de-sistema.py)
+
 ### 4. Teste de Aceitação
 O que testa? Fluxos de negócio, conforme expectativa do usuário/cliente.
 
@@ -48,12 +54,16 @@ Objetivo: Confirmar se o sistema está pronto para entrega.
 
 Quem executa? Cliente ou Product Owner (PO), em ambiente simulado.
 
+[Exemplo de código](./tipos-de-teste/tests/teste-de-aceitacao.py)
+
 ### 5. Teste de Regressão
 O que testa? Funcionalidades existentes após novas alterações.
 
 Objetivo: Evitar que mudanças quebrem features já validadas.
 
 Quando? Após correções, atualizações ou releases.
+
+[Exemplo de código](./tipos-de-teste/tests/teste-de-regressao.py)
 
 ### 6. Teste Exploratório
 O que testa? Comportamentos não previstos, sem roteiro fixo.
@@ -87,6 +97,8 @@ A automação de testes é essencial para garantir qualidade, velocidade e confi
   - Linguagens: Java, Python, C#, JavaScript.
 
   - Vantagens: Multi-navegador, ampla comunidade.
+ 
+  - [Exemplo de código](./automacao-de-testes/selenium.py)
 
 
 - Cypress
