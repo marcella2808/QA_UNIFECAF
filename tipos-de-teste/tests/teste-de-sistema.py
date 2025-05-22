@@ -1,4 +1,4 @@
-from tipos-de-teste.usuario-service import Carrinho
+from tipos-de-teste.Carrinho import Carrinho
 
 def test_sistema_carrinho():
     carrinho = CarrinhoDeCompras()
