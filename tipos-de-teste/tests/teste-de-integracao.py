@@ -1,5 +1,3 @@
-from tipos-de-teste.usuario-service import login_usuario
-
 def test_integracao_login():
     assert login_usuario("joao@email.com", "1234") == "Login bem-sucedido"
     assert login_usuario("joao@email.com", "senhaerrada") == "Falha no login"
