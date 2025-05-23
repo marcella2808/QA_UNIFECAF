@@ -1,5 +1,3 @@
-from tipos-de-teste.Carrinho import Carrinho
-
 def test_sistema_carrinho():
     carrinho = CarrinhoDeCompras()
     carrinho.adicionar_item("Camiseta")
