@@ -1,5 +1,3 @@
-from tipos-de-teste.usuario-service import cadastrar_usuario
-
 def test_cadastro_usuario():
     assert cadastrar_usuario("João", "18374829387", "joao@email.com", "1234") == "Usuário cadastrado com sucesso!"
     assert cadastrar_usuario("Maria", "8374", "maria@email.com", "abcdefgh") == "CPF deve conter 11 dígitos."
