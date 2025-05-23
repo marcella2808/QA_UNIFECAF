@@ -1,6 +1,3 @@
-from tipos-de-teste.usuario-service import cadastrar_usuario, login_usuario
-from tipos-de-teste.Carrinho import Carrinho
-
 def test_aceitacao_fluxo_completo():
     assert cadastrar_usuario("Maria", "12345678910", "maria@email.com", "abcd") == "Usuário cadastrado com sucesso!"
     assert login_usuario("maria@email.com", "abcd") == "Login bem-sucedido"
